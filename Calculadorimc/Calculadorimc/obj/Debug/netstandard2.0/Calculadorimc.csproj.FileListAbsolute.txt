@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Calculadorimc\Calculadorimc\Calculadorimc\bin\Debug\netstandard2.0\Calculadorimc.deps.json
+C:\Users\User\source\repos\Calculadorimc\Calculadorimc\Calculadorimc\bin\Debug\netstandard2.0\Calculadorimc.dll
+C:\Users\User\source\repos\Calculadorimc\Calculadorimc\Calculadorimc\bin\Debug\netstandard2.0\ref\Calculadorimc.dll
+C:\Users\User\source\repos\Calculadorimc\Calculadorimc\Calculadorimc\bin\Debug\netstandard2.0\Calculadorimc.pdb
+C:\Users\User\source\repos\Calculadorimc\Calculadorimc\Calculadorimc\obj\Debug\netstandard2.0\Calculadorimc.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Calculadorimc\Calculadorimc\Calculadorimc\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\Calculadorimc\Calculadorimc\Calculadorimc\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\Calculadorimc\Calculadorimc\Calculadorimc\obj\Debug\netstandard2.0\Calculadorimc.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Calculadorimc\Calculadorimc\Calculadorimc\obj\Debug\netstandard2.0\Calculadorimc.AssemblyInfo.cs
+C:\Users\User\source\repos\Calculadorimc\Calculadorimc\Calculadorimc\obj\Debug\netstandard2.0\Calculadorimc.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Calculadorimc\Calculadorimc\Calculadorimc\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\Calculadorimc\Calculadorimc\Calculadorimc\obj\Debug\netstandard2.0\Calculadorimc.dll
+C:\Users\User\source\repos\Calculadorimc\Calculadorimc\Calculadorimc\obj\Debug\netstandard2.0\ref\Calculadorimc.dll
+C:\Users\User\source\repos\Calculadorimc\Calculadorimc\Calculadorimc\obj\Debug\netstandard2.0\Calculadorimc.pdb

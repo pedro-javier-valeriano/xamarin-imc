@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadorimc.MainPage"
+             Visual="Material" >
+             
+
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="250">
+        
+            <Label Text="Esta es mi primera app " FontAttributes="Bold" FontSize="30" HorizontalTextAlignment="Center" TextColor="Red" />
+            <Entry Placeholder="ingrese su altura" x:Name="altura" Keyboard="Numeric"/>
+            <Entry Placeholder="ingrese su peso" x:Name="peso" Keyboard="Numeric" TextColor="Purple"/>
+            <Button Text="calcular" Clicked="Button_Clicked"  BackgroundColor="Orange"/>
+            <Entry Placeholder="tu IMC es:" x:Name="imc" IsEnabled="False"/>
+
+
+
+
+
+    </StackLayout>
+
+</ContentPage>
